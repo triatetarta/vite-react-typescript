@@ -1,0 +1,10 @@
+{
+  "token": {
+    "colorPrimary": "#3b3bf4",
+    "colorInfo": "#3b3bf4",
+    "colorSuccess": "#16db93",
+    "colorWarning": "#ffcd4b",
+    "colorError": "#f66b6b",
+    "borderRadius": 12
+  }
+}
